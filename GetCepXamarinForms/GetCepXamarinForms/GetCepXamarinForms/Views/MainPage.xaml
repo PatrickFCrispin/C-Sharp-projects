@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GetCepXamarinForms.MainPage">
+
+    <StackLayout Padding="20" BackgroundColor="#cfcfcf">
+        <Entry FontSize="16"
+               Placeholder="Informe o CEP"
+               MaxLength="8"
+               Keyboard="Numeric"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               Text="{Binding CepInputed}"
+               TextChanged="CepInputed_changed" />
+
+        <Button FontSize="16"
+                Margin="0, 0, 0, 20"
+                Text="Pesquisar" 
+                Clicked="Pesquisar_ClickedAsync"/>
+
+        <Label FontSize="16" 
+               Margin="0, 0, 0, 20"
+               Text="Cep inválido."
+               TextColor="Red"
+               IsVisible="{Binding InvalidCep}" />
+
+        <Label FontSize="16" 
+               Margin="0, 0, 0, 20"
+               Text="Cep não encontrado."
+               TextColor="Red"
+               IsVisible="{Binding CepNotFound}" />
+
+        <StackLayout BindingContext="{Binding CepSchema}">
+            <Label FontSize="16" 
+                   Text="{Binding Cep, StringFormat='Cep: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Logradouro, StringFormat='Logradouro: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Complemento, StringFormat='Complemento: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Bairro, StringFormat='Bairro: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Localidade, StringFormat='Localidade: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Uf, StringFormat='Uf: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Ibge, StringFormat='Ibge: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Gia, StringFormat='Gia: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Ddd, StringFormat='Ddd: {0}'}" />
+            <Label FontSize="16" 
+                   Text="{Binding Siafi, StringFormat='Siafi: {0}'}" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

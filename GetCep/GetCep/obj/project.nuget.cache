@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4o+vYJQCgKcnzbP9iqNWj9kPZdbdAYauB0gFVd3PgIPFvdnscpZr/e6YeFSqDohOW+X5pyUAIgmMc8J5/YuZ2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patrick.fonseca\\Desktop\\Intelitrader - InteliMobile\\Projetos-C-Sharp\\GetCep\\GetCep\\GetCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

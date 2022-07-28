@@ -1,0 +1,43 @@
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.deps.json
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\ref\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.pdb
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.AssemblyInfo.cs
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\ref\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.pdb
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\patrick.fonseca\source\repos\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.csprojAssemblyReference.cache
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.deps.json
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\ref\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.pdb
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\ref\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\Desktop\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.deps.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\ref\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\bin\Debug\netstandard2.0\GetCepXamarinForms.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.csproj.AssemblyReference.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\ref\GetCepXamarinForms.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepXamarinForms\GetCepXamarinForms\GetCepXamarinForms\obj\Debug\netstandard2.0\GetCepXamarinForms.pdb

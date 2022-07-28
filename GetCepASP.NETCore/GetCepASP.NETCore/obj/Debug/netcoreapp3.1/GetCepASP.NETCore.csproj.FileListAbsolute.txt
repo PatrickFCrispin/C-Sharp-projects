@@ -1,0 +1,109 @@
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.exe
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.deps.json
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.runtimeconfig.json
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.runtimeconfig.dev.json
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.dll
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.pdb
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.dll
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.pdb
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.AssemblyInfo.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorAssemblyInfo.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorAssemblyInfo.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\staticwebassets\GetCepASP.NETCore.StaticWebAssets.Manifest.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\staticwebassets\GetCepASP.NETCore.StaticWebAssets.xml
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\GetCepASP.NETCore.styles.css
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.TagHelpers.input.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.TagHelpers.output.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorCoreGenerate.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorTargetAssemblyInfo.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorTargetAssemblyInfo.cs
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.pdb
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.dll
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.pdb
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.genruntimeconfig.cache
+C:\Users\patrick.fonseca\source\repos\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.csproj.CopyComplete
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.exe
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.deps.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.runtimeconfig.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.runtimeconfig.dev.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.csproj.AssemblyReference.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorAssemblyInfo.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorAssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\staticwebassets\GetCepASP.NETCore.StaticWebAssets.Manifest.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\staticwebassets\GetCepASP.NETCore.StaticWebAssets.xml
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\GetCepASP.NETCore.styles.css
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.TagHelpers.input.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.TagHelpers.output.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorCoreGenerate.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorTargetAssemblyInfo.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorTargetAssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.genruntimeconfig.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.csproj.CopyComplete
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.exe
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.deps.json
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.runtimeconfig.json
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.runtimeconfig.dev.json
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.dll
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.pdb
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.dll
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\bin\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.pdb
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.csproj.AssemblyReference.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorAssemblyInfo.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorAssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\staticwebassets\GetCepASP.NETCore.StaticWebAssets.Manifest.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\staticwebassets\GetCepASP.NETCore.StaticWebAssets.xml
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\GetCepASP.NETCore.styles.css
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.TagHelpers.input.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.TagHelpers.output.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorCoreGenerate.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorTargetAssemblyInfo.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.RazorTargetAssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.Views.pdb
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.dll
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.pdb
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.genruntimeconfig.cache
+C:\Users\patrick.fonseca\Desktop\Projetos-C-Sharp\GetCepASP.NETCore\GetCepASP.NETCore\obj\Debug\netcoreapp3.1\GetCepASP.NETCore.csproj.CopyComplete

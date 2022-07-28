@@ -1,0 +1,71 @@
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.deps.json
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\Patrick\Desktop\goiabinhas-mobile-set-20-0f7eb037b86d\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.deps.json
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\Patrick\Desktop\Projetos_Intelitrader\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.deps.json
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.deps.json
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\DetalhesAtivo - Copy\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.deps.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\bin\Debug\netstandard2.0\DetalhesAtivo.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.csproj.AssemblyReference.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\ref\DetalhesAtivo.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - boas praticas, credenciais e documentos\Projetos-C-Sharp\DetalhesAtivo\DetalhesAtivo\DetalhesAtivo\obj\Debug\netstandard2.0\DetalhesAtivo.pdb

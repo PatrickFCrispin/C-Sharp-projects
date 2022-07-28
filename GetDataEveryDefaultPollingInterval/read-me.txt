@@ -1,0 +1,1 @@
+Projeto Console Application .NET Core que realiza request a cada 2 segundos para uma API.

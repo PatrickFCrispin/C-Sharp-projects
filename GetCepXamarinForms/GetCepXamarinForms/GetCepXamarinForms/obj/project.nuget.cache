@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dr/MmmqYoU3I/IlJBr6FUMGn0tM3hYFB6atqgrEfScTflcKg76NOoltlJ6/p5Xte2BYJlWXkscXlZmB4LpWKmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.exe
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.deps.json
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.runtimeconfig.json
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.runtimeconfig.dev.json
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.dll
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.pdb
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.csprojAssemblyReference.cache
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.AssemblyInfo.cs
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.csproj.CopyComplete
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.dll
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.pdb
+C:\Users\patrick.fonseca\source\repos\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.genruntimeconfig.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.exe
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.deps.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.runtimeconfig.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.runtimeconfig.dev.json
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\bin\Debug\netcoreapp3.1\GetCep.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.AssemblyInfoInputs.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.AssemblyInfo.cs
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.csproj.CoreCompileInputs.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.csproj.CopyComplete
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.dll
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.pdb
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.genruntimeconfig.cache
+C:\Users\patrick.fonseca\Desktop\Intelitrader - InteliMobile\Projetos-C-Sharp\GetCep\GetCep\obj\Debug\netcoreapp3.1\GetCep.csproj.AssemblyReference.cache

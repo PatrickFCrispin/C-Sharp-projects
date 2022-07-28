@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+        xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+        ios:Page.UseSafeArea="true" x:Class="DetalhesAtivo.Views.MainPage">
+
+    <StackLayout Padding="20">
+        <Entry FontFamily="Arial" Margin="0, 0, 0, 20" 
+               Placeholder="Código do ativo" 
+               Text="{Binding Symbol}" 
+               TextColor="{DynamicResource RedColor}" 
+               TextChanged="StopTimerAndClearSecurity" 
+               Completed="StartTimerAndUpdateSecurity" />
+
+        <StackLayout x:Name="stkSecurity" BindingContext="{Binding Security}">
+            <StackLayout IsVisible="{Binding ., Converter={StaticResource IsSecurityInvalid}}">
+                <Label Text="Nenhum ativo para exibir." />
+            </StackLayout>
+
+            <StackLayout IsVisible="{Binding ., Converter={StaticResource IsSecurityValid}}">
+                <Label FontFamily="Arial" 
+                       FontSize="16" 
+                       Margin="0, 0, 0, 10" 
+                       TextColor="{Binding ., Converter={StaticResource ValidSecurityToColor}, ConverterParameter={x:Reference stkSecurity}}" 
+                       Text="{Binding Symbol, StringFormat='Ativo: {0}'} " />
+
+                <StackLayout BindingContext="{Binding Properties}">
+                    <Label FontFamily="Arial" 
+                           FontSize="16" 
+                           Margin="0, 0, 0, 10" 
+                           TextColor="{Binding ., Converter={StaticResource ValidSecurityToColor}, ConverterParameter={x:Reference stkSecurity}}" 
+                           Text="{Binding OpeningPrice, StringFormat='Abertura: R$ {0:N2}'} " />
+
+                    <Label FontFamily="Arial" 
+                           FontSize="16" 
+                           Margin="0, 0, 0, 10" 
+                           TextColor="{Binding ., Converter={StaticResource ValidSecurityToColor}, ConverterParameter={x:Reference stkSecurity}}" 
+                           Text="{Binding MaxPrice, StringFormat='Máximo: R$ {0:N2}'} " />
+
+                    <Label FontFamily="Arial" 
+                           FontSize="16" 
+                           Margin="0, 0, 0, 10" 
+                           TextColor="{Binding ., Converter={StaticResource ValidSecurityToColor}, ConverterParameter={x:Reference stkSecurity}}" 
+                           Text="{Binding MinPrice, StringFormat='Mínimo: R$ {0:N2}'} " />
+
+                    <Label FontFamily="Arial" 
+                           FontSize="16" 
+                           Margin="0, 0, 0, 10" 
+                           TextColor="{Binding ., Converter={StaticResource ValidSecurityToColor}, ConverterParameter={x:Reference stkSecurity}}" 
+                           Text="{Binding AveragePrice, StringFormat='Médio: R$ {0:N2}'} " />
+
+                    <Label FontFamily="Arial" 
+                           FontSize="20" 
+                           TextColor="{Binding ., Converter={StaticResource ValidSecurityToColor}, ConverterParameter={x:Reference stkSecurity}}" 
+                           Text="{Binding Price, StringFormat='PREÇO ATUAL: R$ {0:N2}'} " />
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

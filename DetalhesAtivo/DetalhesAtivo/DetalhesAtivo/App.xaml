@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+        xmlns:converters="clr-namespace:DetalhesAtivo"
+        x:Class="DetalhesAtivo.App">
+
+    <Application.Resources>
+        <Color x:Key="RedColor">#B40000</Color>
+        <Color x:Key="GreenColor">#006400</Color>
+
+        <converters:ValidSecurityToColorConverter x:Key="ValidSecurityToColor" />
+        <converters:ValidSecurityConverter x:Key="IsSecurityValid" />
+        <converters:InvalidSecurityConverter x:Key="IsSecurityInvalid" />
+    </Application.Resources>
+</Application>
