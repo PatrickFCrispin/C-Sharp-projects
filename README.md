@@ -1,1 +1,2 @@
-# Projetos-C-Sharp
+# C# projects
+Projetos desenvolvidos em C#.
