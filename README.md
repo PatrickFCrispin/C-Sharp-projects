@@ -1,2 +1,2 @@
 # C# projects
-Projetos desenvolvidos em C#.
+Este repositório contém alguns projetos desenvolvidos em C#.
