@@ -8,9 +8,9 @@ namespace GetDataEveryDefaultPollingInterval.Providers
 {
     public class DataProvider : GenericPoller
     {
-        const int DefaultPollingInterval = 2000;
-        const string uri = "https://jsonplaceholder.typicode.com/todos/1";
-        readonly HttpClient client = new();
+        private const int DefaultPollingInterval = 2000;
+        private const string Uri = "https://jsonplaceholder.typicode.com/todos/1";
+        private readonly HttpClient _client = new();
 
         public void Start()
         {
@@ -21,9 +21,9 @@ namespace GetDataEveryDefaultPollingInterval.Providers
         {
             try
             {
-                var response = await client.GetAsync(uri);
+                var response = await _client.GetAsync(Uri);
 
-                if (response == null)
+                if (response is null)
                 {
                     Pulse();
                     return;

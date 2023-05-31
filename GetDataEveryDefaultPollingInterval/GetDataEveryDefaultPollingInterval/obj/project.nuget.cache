@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dEy6cWRQ8VO94ks1LO7GD884XRKu83nTLmTiNfjiARpLQwBSmEHin/lSRX4XDmRzNFtHF/dsKPsmEZJOhkr+Hw==",
+  "dgSpecHash": "84fp4YMc6UXSAekXZtgW+SmNG4Gfj2mjxFylNGFWn1DZSRtneF/lKClS0t0WnI+ZjwEoLq2T6fRwdS5sPTnGgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patrick.fonseca\\Desktop\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp-projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

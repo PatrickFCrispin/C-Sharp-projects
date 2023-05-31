@@ -5,9 +5,9 @@ namespace GetDataEveryDefaultPollingInterval.Infra
 {
     public abstract class GenericPoller
     {
-        CancellationToken _cancellationToken;
-        readonly object _lock = new();
-        bool isRunning;
+        private CancellationToken _cancellationToken;
+        private readonly object _lock = new();
+        private bool _isRunning;
         public int PollingIntervalMS { get; protected set; }
 
         public void Start(int pollingIntervalMs, CancellationToken cancellationToken)
@@ -16,20 +16,20 @@ namespace GetDataEveryDefaultPollingInterval.Infra
 
             lock (_lock)
             {
-                if (isRunning) return;
+                if (_isRunning) return;
 
                 _cancellationToken = cancellationToken;
-                isRunning = true;
+                _isRunning = true;
 
                 DelayThenPerformPollingAction();
             }
         }
 
-        void DelayThenPerformPollingAction()
+        private void DelayThenPerformPollingAction()
         {
             Task.Delay(PollingIntervalMS).ContinueWith(async _ =>
             {
-                if (!isRunning) return;
+                if (!_isRunning) return;
 
                 await GetData();
             }, _cancellationToken, TaskContinuationOptions.OnlyOnRanToCompletion, TaskScheduler.Default);
@@ -39,7 +39,7 @@ namespace GetDataEveryDefaultPollingInterval.Infra
 
         protected void Pulse()
         {
-            if (!isRunning) return;
+            if (!_isRunning) return;
 
             DelayThenPerformPollingAction();
         }
@@ -48,9 +48,9 @@ namespace GetDataEveryDefaultPollingInterval.Infra
         {
             lock (_lock)
             {
-                if (!isRunning) return;
+                if (!_isRunning) return;
 
-                isRunning = false;
+                _isRunning = false;
             }
         }
     }

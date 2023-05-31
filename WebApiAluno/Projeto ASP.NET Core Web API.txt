@@ -1,6 +1,4 @@
-﻿Projeto ASP.NET Core Web API
-
-Para testar:
+﻿Para testar:
 
 Postman:
 1. Rodar o programa no VS;

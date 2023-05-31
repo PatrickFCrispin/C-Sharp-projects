@@ -16,3 +16,19 @@ C:\Users\patrick.fonseca\Desktop\GetDataEveryDefaultPollingInterval\GetDataEvery
 C:\Users\patrick.fonseca\Desktop\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\ref\GetDataEveryDefaultPollingInterval.dll
 C:\Users\patrick.fonseca\Desktop\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.pdb
 C:\Users\patrick.fonseca\Desktop\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.genruntimeconfig.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\bin\Debug\net5.0\GetDataEveryDefaultPollingInterval.exe
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\bin\Debug\net5.0\GetDataEveryDefaultPollingInterval.deps.json
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\bin\Debug\net5.0\GetDataEveryDefaultPollingInterval.runtimeconfig.json
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\bin\Debug\net5.0\GetDataEveryDefaultPollingInterval.runtimeconfig.dev.json
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\bin\Debug\net5.0\GetDataEveryDefaultPollingInterval.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\bin\Debug\net5.0\GetDataEveryDefaultPollingInterval.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.csproj.AssemblyReference.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.AssemblyInfoInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.AssemblyInfo.cs
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.csproj.CoreCompileInputs.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\refint\GetDataEveryDefaultPollingInterval.dll
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.pdb
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\GetDataEveryDefaultPollingInterval.genruntimeconfig.cache
+C:\Users\Patri\OneDrive\Área de Trabalho\C-Sharp-projects\GetDataEveryDefaultPollingInterval\GetDataEveryDefaultPollingInterval\obj\Debug\net5.0\ref\GetDataEveryDefaultPollingInterval.dll

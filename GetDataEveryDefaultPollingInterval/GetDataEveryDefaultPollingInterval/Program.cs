@@ -8,8 +8,8 @@ namespace GetDataEveryDefaultPollingInterval
         static void Main(string[] args)
         {
             Console.WriteLine("Starting...");
-            var data = new DataProvider();
-            data.Start();
+            var dataProvider = new DataProvider();
+            dataProvider.Start();
 
             Console.ReadLine();
         }
