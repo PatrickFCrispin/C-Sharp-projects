@@ -8,22 +8,18 @@ namespace GetCep.Controllers
     public class CepController
     {
         // Altere o cep para realizar a pesquisa. Valores aceitos: 93180000 | 93180-000
-        readonly string cep = "01001000";
+        private readonly string Cep = "01001000";
 
-        public async Task ConnectToApiAndGetCepContent()
+        public async Task ConnectToApiAndGetCepContentAsync()
         {
             try
             {
                 var httpClient = new HttpClient();
-
-                string url = $"https://viacep.com.br/ws/{cep}/json";
-
+                var url = $"https://viacep.com.br/ws/{Cep}/json";
                 var responseMessage = await httpClient.GetAsync(url);
-
                 if (responseMessage.IsSuccessStatusCode)
                 {
-                    string content = await responseMessage.Content.ReadAsStringAsync();
-
+                    var content = await responseMessage.Content.ReadAsStringAsync();
                     CepSchema.UpdateCep(content);
                 }
             } 

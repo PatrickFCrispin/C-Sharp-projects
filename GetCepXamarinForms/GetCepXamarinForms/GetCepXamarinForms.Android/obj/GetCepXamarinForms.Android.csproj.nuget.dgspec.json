@@ -1,39 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\GetCepXamarinForms.Android.csproj": {}
+    "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\GetCepXamarinForms.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\GetCepXamarinForms.Android.csproj": {
+    "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\GetCepXamarinForms.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\GetCepXamarinForms.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\GetCepXamarinForms.Android.csproj",
         "projectName": "GetCepXamarinForms.Android",
-        "projectPath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\GetCepXamarinForms.Android.csproj",
-        "packagesPath": "C:\\Users\\patrick.fonseca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\obj\\",
+        "projectPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\GetCepXamarinForms.Android.csproj",
+        "packagesPath": "C:\\Users\\Patri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\patrick.fonseca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/m3sistemas/_packaging/M3_Libs/nuget/v3/index.json": {}
         },
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj": {
-                "projectPath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj"
+              "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj": {
+                "projectPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj"
               }
             }
           }
@@ -54,29 +55,31 @@
         }
       }
     },
-    "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj": {
+    "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj",
+        "projectUniqueName": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj",
         "projectName": "GetCepXamarinForms",
-        "projectPath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj",
-        "packagesPath": "C:\\Users\\patrick.fonseca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\obj\\",
+        "projectPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj",
+        "packagesPath": "C:\\Users\\Patri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\patrick.fonseca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/m3sistemas/_packaging/M3_Libs/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -119,11 +122,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

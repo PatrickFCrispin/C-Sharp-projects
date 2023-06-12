@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "42iCHcxqAuTapsL/WsR0mIGQ0ukcOirxEN4KY1SOWkdw6lggPoHiZouKV1Lhszru5aY7B0Kycsi7wEFo68YgBg==",
+  "dgSpecHash": "PuP1On59u5M+Y1NDvGy4pIPmRPrLJBYuCMaiDDGprp/+j7Kl6SPM8pBUw17N7MKjd8vLr41IEzIx91pvUc7b1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patrick.fonseca\\Desktop\\Intelitrader - InteliMobile\\Projetos-C-Sharp\\GetCepASP.NETCore\\GetCepASP.NETCore\\GetCepASP.NETCore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepASP.NETCore\\GetCepASP.NETCore\\GetCepASP.NETCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

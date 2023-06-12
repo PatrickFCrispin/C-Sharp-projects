@@ -17,19 +17,18 @@ namespace GetDataEveryDefaultPollingInterval.Providers
             Start(DefaultPollingInterval, new CancellationToken());
         }
 
-        protected override async Task GetData()
+        protected override async Task GetDataAsync()
         {
             try
             {
                 var response = await _client.GetAsync(Uri);
-
                 if (response is null)
                 {
                     Pulse();
                     return;
                 }
 
-                string result = await response.Content.ReadAsStringAsync();
+                var result = await response.Content.ReadAsStringAsync();
                 Console.WriteLine(result);
             }
             catch (Exception ex)

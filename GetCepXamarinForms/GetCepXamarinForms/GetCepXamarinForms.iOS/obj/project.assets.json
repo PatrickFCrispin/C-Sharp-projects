@@ -5,10 +5,14 @@
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -18,23 +22,35 @@
           "System.Drawing.Common.dll"
         ],
         "compile": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Xamarin.Forms/4.8.0.1451": {
         "type": "package",
         "compile": {
-          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
+            "related": ".pdb;.xml"
+          },
           "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
-          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
+            "related": ".pdb;.xml"
+          },
           "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
-          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "resource": {
           "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll": {
@@ -165,10 +181,14 @@
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -178,23 +198,35 @@
           "System.Drawing.Common.dll"
         ],
         "compile": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Xamarin.Forms/4.8.0.1451": {
         "type": "package",
         "compile": {
-          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
+            "related": ".pdb;.xml"
+          },
           "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
-          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
+            "related": ".pdb;.xml"
+          },
           "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
-          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "resource": {
           "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll": {
@@ -325,10 +357,14 @@
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -338,23 +374,35 @@
           "System.Drawing.Common.dll"
         ],
         "compile": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Xamarin.Forms/4.8.0.1451": {
         "type": "package",
         "compile": {
-          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
+            "related": ".pdb;.xml"
+          },
           "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
-          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
+            "related": ".pdb;.xml"
+          },
           "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
-          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "resource": {
           "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll": {
@@ -485,10 +533,14 @@
       "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -498,23 +550,35 @@
           "System.Drawing.Common.dll"
         ],
         "compile": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/xamarinios10/Xamarin.Essentials.dll": {}
+          "lib/xamarinios10/Xamarin.Essentials.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Xamarin.Forms/4.8.0.1451": {
         "type": "package",
         "compile": {
-          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
+            "related": ".pdb;.xml"
+          },
           "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
-          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "runtime": {
-          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
+          "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {
+            "related": ".pdb;.xml"
+          },
           "lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll": {},
-          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {}
+          "lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll": {
+            "related": ".pdb;.xml"
+          }
         },
         "resource": {
           "lib/Xamarin.iOS10/ar/Xamarin.Forms.Platform.iOS.resources.dll": {
@@ -1052,39 +1116,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Patri\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.iOS\\GetCepXamarinForms.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.iOS\\GetCepXamarinForms.iOS.csproj",
       "projectName": "GetCepXamarinForms.iOS",
-      "projectPath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.iOS\\GetCepXamarinForms.iOS.csproj",
-      "packagesPath": "C:\\Users\\patrick.fonseca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.iOS\\GetCepXamarinForms.iOS.csproj",
+      "packagesPath": "C:\\Users\\Patri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\patrick.fonseca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/m3sistemas/_packaging/M3_Libs/nuget/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj": {
-              "projectPath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj"
+            "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj": {
+              "projectPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.csproj"
             }
           }
         }

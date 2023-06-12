@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "twgkfwjFnybl3mO3JTpnjeCGLrowEQd/3k9DFuoo4k+K9JaUwKUAnmFL0LZoUhuIsnos6UJt4uO0S4TvUJIblA==",
+  "dgSpecHash": "b7z4nKaGcm383LGeFDfCIwf17lBHz3HLWqyjOnuAzZ8k1KOmUE9kjRxrWLEogiQXSZe5dJxqeWSO453GXt7Ffg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\patrick.fonseca\\Desktop\\Projetos-C-Sharp\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.iOS\\GetCepXamarinForms.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetCepXamarinForms\\GetCepXamarinForms\\GetCepXamarinForms.iOS\\GetCepXamarinForms.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\patrick.fonseca\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+    "C:\\Users\\Patri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Patri\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
   "logs": []
 }

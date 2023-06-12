@@ -19,8 +19,7 @@ namespace GetCep.Models
         public static void UpdateCep(string content)
         {
             var cepSchema = JsonConvert.DeserializeObject<CepSchema>(content);
-
-            if (string.IsNullOrEmpty(cepSchema.Cep))
+            if (string.IsNullOrWhiteSpace(cepSchema.Cep))
             {
                 Console.WriteLine("Cep não encontrado.");
                 return;

@@ -1,5 +1,6 @@
 ﻿using GetCepXamarinForms.Models;
 using Newtonsoft.Json;
+using System;
 using System.Net.Http;
 using System.Threading.Tasks;
 
@@ -7,16 +8,34 @@ namespace GetCepXamarinForms.ViewModels
 {
     public class CepViewModel : BaseViewModel
     {
-        public string CepInputed { get; set; }
+        private string _cepInputed;
+        private bool _invalidCep;
+        private bool _cepNotFound;
+        private CepSchema cepSchema;
 
-        bool invalidCep;
-        public bool InvalidCep { get => invalidCep; set { SetProperty(ref invalidCep, value); } }
+        public string CepInputed
+        {
+            get => _cepInputed;
+            private set { SetProperty(ref _cepInputed, value); }
+        }
 
-        bool cepNotFound;
-        public bool CepNotFound { get => cepNotFound; set { SetProperty(ref cepNotFound, value); } }
+        public bool InvalidCep 
+        { 
+            get => _invalidCep; 
+            private set { SetProperty(ref _invalidCep, value); } 
+        }
 
-        CepSchema cepSchema;
-        public CepSchema CepSchema { get => cepSchema; set { SetProperty(ref cepSchema, value); } }
+        public bool CepNotFound 
+        { 
+            get => _cepNotFound; 
+            private set { SetProperty(ref _cepNotFound, value); } 
+        }
+
+        public CepSchema CepSchema 
+        { 
+            get => cepSchema; 
+            private set { SetProperty(ref cepSchema, value); } 
+        }
 
         public CepViewModel()
         {
@@ -34,14 +53,12 @@ namespace GetCepXamarinForms.ViewModels
             try
             {
                 var httpClient = new HttpClient();
-                string url = $"https://viacep.com.br/ws/{CepInputed}/json/";
+                var url = $"https://viacep.com.br/ws/{CepInputed}/json/";
                 var response = await httpClient.GetAsync(url);
-
                 if (response.IsSuccessStatusCode)
                 {
-                    string content = await response.Content.ReadAsStringAsync();
+                    var content = await response.Content.ReadAsStringAsync();
                     var cepSchema = JsonConvert.DeserializeObject<CepSchema>(content);
-
                     if (string.IsNullOrEmpty(cepSchema.Cep))
                     {
                         CepNotFound = true;
@@ -51,8 +68,15 @@ namespace GetCepXamarinForms.ViewModels
                     CepNotFound = false;
                     CepSchema = cepSchema;
                 }
-            } 
-            catch { }
+            }
+            catch (Exception) { throw; }
+        }
+
+        public void ResetProperties()
+        {
+            InvalidCep = false;
+            CepNotFound = false;
+            CepSchema = new CepSchema();
         }
     }
 }

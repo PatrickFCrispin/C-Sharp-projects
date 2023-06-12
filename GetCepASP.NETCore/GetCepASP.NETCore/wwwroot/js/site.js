@@ -10,12 +10,12 @@
     }
 
     RegisterHandlers() {
-        inputCep.onkeydown = this.Limpar
-        inputCep.onchange = this.Limpar
+        inputCep.onkeydown = this.ResetComponents
+        inputCep.onchange = this.ResetComponents
         btnPesquisar.onclick = this.GetCepAndUpdateView
     }
 
-    Limpar() {
+    ResetComponents() {
         spanMsgErro.innerHTML = ''
         txtAreaCep.innerHTML = ''
     }
@@ -46,7 +46,7 @@
                     spanMsgErro.innerHTML = 'CEP inválido!'
                     inputCep.focus()
                 }
-            }   
+            }
         }
     }
 }

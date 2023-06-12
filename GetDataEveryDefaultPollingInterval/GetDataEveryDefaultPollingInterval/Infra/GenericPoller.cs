@@ -8,15 +8,16 @@ namespace GetDataEveryDefaultPollingInterval.Infra
         private CancellationToken _cancellationToken;
         private readonly object _lock = new();
         private bool _isRunning;
+
         public int PollingIntervalMS { get; protected set; }
 
-        public void Start(int pollingIntervalMs, CancellationToken cancellationToken)
+        protected void Start(int pollingIntervalMs, CancellationToken cancellationToken)
         {
             PollingIntervalMS = pollingIntervalMs;
 
             lock (_lock)
             {
-                if (_isRunning) return;
+                if (_isRunning) { return; }
 
                 _cancellationToken = cancellationToken;
                 _isRunning = true;
@@ -29,26 +30,26 @@ namespace GetDataEveryDefaultPollingInterval.Infra
         {
             Task.Delay(PollingIntervalMS).ContinueWith(async _ =>
             {
-                if (!_isRunning) return;
+                if (!_isRunning) { return; }
 
-                await GetData();
+                await GetDataAsync();
             }, _cancellationToken, TaskContinuationOptions.OnlyOnRanToCompletion, TaskScheduler.Default);
         }
 
-        protected abstract Task GetData();
+        protected abstract Task GetDataAsync();
 
         protected void Pulse()
         {
-            if (!_isRunning) return;
+            if (!_isRunning) { return; }
 
             DelayThenPerformPollingAction();
         }
 
-        public void Stop()
+        protected void Stop()
         {
             lock (_lock)
             {
-                if (!_isRunning) return;
+                if (!_isRunning) { return; }
 
                 _isRunning = false;
             }

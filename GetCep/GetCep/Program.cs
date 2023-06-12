@@ -5,10 +5,10 @@ namespace GetCep
 {
     class Program
     {
-        static Task Main(string[] args)
+        static async Task Main(string[] args)
         {
             var cepController = new CepController();
-            return cepController.ConnectToApiAndGetCepContent();
+            await cepController.ConnectToApiAndGetCepContentAsync();
         }
     }
 }

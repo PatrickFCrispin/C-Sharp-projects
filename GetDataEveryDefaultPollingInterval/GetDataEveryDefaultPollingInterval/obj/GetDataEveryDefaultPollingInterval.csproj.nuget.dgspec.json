@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp-projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj": {}
+    "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp-projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj": {
+    "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp-projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj",
+        "projectUniqueName": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj",
         "projectName": "GetDataEveryDefaultPollingInterval",
-        "projectPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp-projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj",
+        "projectPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval.csproj",
         "packagesPath": "C:\\Users\\Patri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp-projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\obj\\",
+        "outputPath": "C:\\Users\\Patri\\OneDrive\\Área de Trabalho\\C-Sharp_projects\\GetDataEveryDefaultPollingInterval\\GetDataEveryDefaultPollingInterval\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

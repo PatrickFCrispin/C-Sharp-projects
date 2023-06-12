@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:GetCepXamarinForms.ViewModels"
+             x:DataType="viewmodels:CepViewModel"
              x:Class="GetCepXamarinForms.MainPage">
 
     <StackLayout Padding="20" BackgroundColor="#cfcfcf">
@@ -30,27 +32,27 @@
                TextColor="Red"
                IsVisible="{Binding CepNotFound}" />
 
-        <StackLayout BindingContext="{Binding CepSchema}">
+        <StackLayout>
             <Label FontSize="16" 
-                   Text="{Binding Cep, StringFormat='Cep: {0}'}" />
+                   Text="{Binding CepSchema.Cep, StringFormat='Cep: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Logradouro, StringFormat='Logradouro: {0}'}" />
+                   Text="{Binding CepSchema.Logradouro, StringFormat='Logradouro: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Complemento, StringFormat='Complemento: {0}'}" />
+                   Text="{Binding CepSchema.Complemento, StringFormat='Complemento: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Bairro, StringFormat='Bairro: {0}'}" />
+                   Text="{Binding CepSchema.Bairro, StringFormat='Bairro: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Localidade, StringFormat='Localidade: {0}'}" />
+                   Text="{Binding CepSchema.Localidade, StringFormat='Localidade: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Uf, StringFormat='Uf: {0}'}" />
+                   Text="{Binding CepSchema.Uf, StringFormat='Uf: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Ibge, StringFormat='Ibge: {0}'}" />
+                   Text="{Binding CepSchema.Ibge, StringFormat='Ibge: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Gia, StringFormat='Gia: {0}'}" />
+                   Text="{Binding CepSchema.Gia, StringFormat='Gia: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Ddd, StringFormat='Ddd: {0}'}" />
+                   Text="{Binding CepSchema.Ddd, StringFormat='Ddd: {0}'}" />
             <Label FontSize="16" 
-                   Text="{Binding Siafi, StringFormat='Siafi: {0}'}" />
+                   Text="{Binding CepSchema.Siafi, StringFormat='Siafi: {0}'}" />
         </StackLayout>
     </StackLayout>
 
