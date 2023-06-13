@@ -7,6 +7,7 @@ namespace GetCep.Controllers
 {
     public class CepController
     {
+        private const string CepUrl = "https://viacep.com.br/ws";
         // Altere o cep para realizar a pesquisa. Valores aceitos: 93180000 | 93180-000
         private readonly string Cep = "01001000";
 
@@ -15,7 +16,7 @@ namespace GetCep.Controllers
             try
             {
                 var httpClient = new HttpClient();
-                var url = $"https://viacep.com.br/ws/{Cep}/json";
+                var url = $"{CepUrl}/{Cep}/json";
                 var responseMessage = await httpClient.GetAsync(url);
                 if (responseMessage.IsSuccessStatusCode)
                 {
