@@ -12,6 +12,9 @@ namespace GetCepXamarinForms.ViewModels
         private bool _invalidCep;
         private bool _cepNotFound;
         private CepSchema cepSchema;
+        //https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+        private static bool s_isCepSchemaEmpty;
+        private const string CepUrl = "https://viacep.com.br/ws";
 
         public string CepInputed
         {
@@ -40,6 +43,7 @@ namespace GetCepXamarinForms.ViewModels
         public CepViewModel()
         {
             CepSchema = new CepSchema();
+            s_isCepSchemaEmpty = true;
         }
 
         public async Task UpdateCepAsync()
@@ -53,7 +57,7 @@ namespace GetCepXamarinForms.ViewModels
             try
             {
                 var httpClient = new HttpClient();
-                var url = $"https://viacep.com.br/ws/{CepInputed}/json/";
+                var url = $"{CepUrl}/{CepInputed}/json";
                 var response = await httpClient.GetAsync(url);
                 if (response.IsSuccessStatusCode)
                 {
@@ -67,6 +71,7 @@ namespace GetCepXamarinForms.ViewModels
 
                     CepNotFound = false;
                     CepSchema = cepSchema;
+                    s_isCepSchemaEmpty = false;
                 }
             }
             catch (Exception) { throw; }
@@ -76,7 +81,12 @@ namespace GetCepXamarinForms.ViewModels
         {
             InvalidCep = false;
             CepNotFound = false;
-            CepSchema = new CepSchema();
+
+            if (!s_isCepSchemaEmpty)
+            {
+                CepSchema = new CepSchema();
+                s_isCepSchemaEmpty = true;
+            }
         }
     }
 }
