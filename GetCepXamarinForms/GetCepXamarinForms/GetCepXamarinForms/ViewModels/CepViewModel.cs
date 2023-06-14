@@ -8,7 +8,7 @@ namespace GetCepXamarinForms.ViewModels
 {
     public class CepViewModel : BaseViewModel
     {
-        private string _cepInputed;
+        private string _cepInputed = string.Empty;
         private bool _invalidCep;
         private bool _cepNotFound;
         private CepSchema cepSchema;
@@ -19,7 +19,7 @@ namespace GetCepXamarinForms.ViewModels
         public string CepInputed
         {
             get => _cepInputed;
-            private set { SetProperty(ref _cepInputed, value); }
+            set { SetProperty(ref _cepInputed, value); }
         }
 
         public bool InvalidCep 

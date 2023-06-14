@@ -16,9 +16,11 @@ namespace GetCepXamarinForms.ViewModels
             return true;
         }
 
+        #region INotifyPropertyChanged
         private void NotifyPropertyChanged([CallerMemberName] string propertyName = "")
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
+        #endregion
     }
 }
